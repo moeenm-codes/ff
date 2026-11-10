@@ -1,0 +1,6 @@
+{
+  "name": "Food Factory - پنل مدیریت و فروش رستوران",
+  "description": "سیستم جامع مدیریت، صندوق (POS)، انفجار رسپی و کسر اتمی مواد اولیه، میزها، پرداخت ۴ وضعیتی و فیش دوگانه رستوران فود فکتوری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
